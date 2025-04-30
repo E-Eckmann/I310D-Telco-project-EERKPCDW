@@ -1,5 +1,6 @@
 # I310D-Telco-project-EERKPCDW
 BY: Ethan Eckmann, Rian Kahlon, Preston Cusick, Daniel Wendland
+
 Project created for UT Austin class I310D Introduction to Human-Centered Data Science
 
 The main goal of this project is to use machine learning to advise Telco, a fictional telecommunications company, on steps it can take to reduce customer churn.
